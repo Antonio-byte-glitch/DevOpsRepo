@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true 
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/prueba_devops:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/galeria:latest
